@@ -1,10 +1,3 @@
-#!/usr/bin/python3
-# Importing some important libraries
-import argparse
-import socket
-import sys
-import subprocess
-from os import system, name, popen
 from time import sleep
 
 amc_project_version = '2.0.0.6'
